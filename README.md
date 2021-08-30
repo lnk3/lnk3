@@ -29,7 +29,7 @@ App to interact with the node api repo above.
 
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=lnk3&count_private=true&show_icons=true&theme=radial)
+![](https://github-readme-stats.vercel.app/api?username=lnk3&count_private=true&show_icons=true&theme=radical)
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=lnk3)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lnk3/lnk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
