@@ -13,8 +13,6 @@
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lnk3 Spotify Playing" width="350" />](https://open.spotify.com/user/lukelr2000) -->
 
 
-I'm Germain, flutter developer and student at EPSI Bordeaux
-
 ## Favourite projects
 
 ### [Qube Control System Design](https://github.com/lnk3/qube)
